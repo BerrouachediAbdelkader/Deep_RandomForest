@@ -4,7 +4,7 @@ DeepRandomForest Is Here!
 ========
 This is the official clone for the implementation of DeepRandomForest .
 
-This package is provided "AS IS" and free for academic usage. You can run it at your own risk. For other purposes, please contact Prof. Rakia JAZIRI <rakia.jaziri@univ-paris8.fr>
+This package is provided "AS IS" and free for academic usage. You can run it at your own risk. For other purposes, please contact Prof. Rakia JAZIRI <rjaziri@ai.univ-paris8.fr>
 
                                        
 Requirements: This package is developed with Python 2.7, please make sure all the dependencies are installed,
